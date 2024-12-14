@@ -12,7 +12,7 @@ const Navigation = () => {
                 height="40"
                 className="d-inline-block align-top mx-3"
             />
-            <Navbar.Brand href="#">DApp ICO Crowdsale</Navbar.Brand>
+            <Navbar.Brand href="#">Medialoco ICO Crowdsale</Navbar.Brand>
         </Navbar>
     );
 }

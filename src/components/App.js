@@ -76,7 +76,7 @@ function App() {
     <Container>
       <Navigation />
 
-      <h1 className='my-4 text-center'>Introducing DApp Token!</h1>
+      <h1 className='my-4 text-center'>Introducing Medialoco Token!</h1>
 
       {isLoading ? (
         <Loading />
